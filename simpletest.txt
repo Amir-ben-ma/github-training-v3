@@ -1,1 +1,4 @@
 my best life 
+revert 0
+revert 000000.11111.000000
+ diff simpletest1 
